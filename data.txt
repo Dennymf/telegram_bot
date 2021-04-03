@@ -1,0 +1,1083 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 69909934,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617461400,
+        "text": "1123"
+      }
+    },
+    {
+      "update_id": 69909935,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617461856,
+        "text": "Привет"
+      }
+    },
+    {
+      "update_id": 69909936,
+      "message": {
+        "message_id": 8,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462344,
+        "text": "&"
+      }
+    },
+    {
+      "update_id": 69909937,
+      "message": {
+        "message_id": 9,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462350,
+        "text": "Привет"
+      }
+    },
+    {
+      "update_id": 69909938,
+      "message": {
+        "message_id": 11,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462351,
+        "text": "?"
+      }
+    },
+    {
+      "update_id": 69909939,
+      "message": {
+        "message_id": 13,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462355,
+        "text": "!"
+      }
+    },
+    {
+      "update_id": 69909940,
+      "message": {
+        "message_id": 16,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462388,
+        "text": "!"
+      }
+    },
+    {
+      "update_id": 69909941,
+      "message": {
+        "message_id": 18,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462390,
+        "text": "!"
+      }
+    },
+    {
+      "update_id": 69909942,
+      "message": {
+        "message_id": 20,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462391,
+        "text": "!"
+      }
+    },
+    {
+      "update_id": 69909943,
+      "message": {
+        "message_id": 22,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462395,
+        "text": "Тут?"
+      }
+    },
+    {
+      "update_id": 69909944,
+      "message": {
+        "message_id": 25,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462596,
+        "text": "1"
+      }
+    },
+    {
+      "update_id": 69909945,
+      "message": {
+        "message_id": 27,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462600,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909946,
+      "message": {
+        "message_id": 29,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462603,
+        "text": "/time",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909947,
+      "message": {
+        "message_id": 32,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462697,
+        "text": "/time",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909948,
+      "message": {
+        "message_id": 35,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462748,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909949,
+      "message": {
+        "message_id": 37,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617462755,
+        "text": "/time",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909950,
+      "message": {
+        "message_id": 40,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617463415,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909951,
+      "message": {
+        "message_id": 42,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617463417,
+        "text": "/last",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909952,
+      "message": {
+        "message_id": 44,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617467574,
+        "text": "/last",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909953,
+      "message": {
+        "message_id": 48,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617468023,
+        "text": "/last",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909954,
+      "message": {
+        "message_id": 51,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617468754,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909955,
+      "message": {
+        "message_id": 52,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617468767,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909956,
+      "message": {
+        "message_id": 54,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617468768,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909957,
+      "message": {
+        "message_id": 55,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617468818,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909958,
+      "message": {
+        "message_id": 56,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617468820,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909959,
+      "message": {
+        "message_id": 58,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617468961,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909960,
+      "message": {
+        "message_id": 61,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617468968,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909961,
+      "message": {
+        "message_id": 68,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617469308,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909962,
+      "message": {
+        "message_id": 69,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617469574,
+        "text": "/last",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909963,
+      "message": {
+        "message_id": 70,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617473822,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909964,
+      "message": {
+        "message_id": 72,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617473824,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909965,
+      "message": {
+        "message_id": 73,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617473835,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909966,
+      "message": {
+        "message_id": 74,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617474094,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909967,
+      "message": {
+        "message_id": 75,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617474103,
+        "text": "/help",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909968,
+      "message": {
+        "message_id": 77,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617474104,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909969,
+      "message": {
+        "message_id": 78,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617474158,
+        "photo": [
+          {
+            "file_id": "AgACAgIAAxkBAANOYGiybryBBBvFSrFXK1rEWKa_4ncAAlW7MRs6O0BLQO-DcpVls6CPbliiLgADAQADAgADbQADbrQAAh4E",
+            "file_unique_id": "AQADj25Yoi4AA260AAI",
+            "file_size": 18526,
+            "width": 320,
+            "height": 214
+          },
+          {
+            "file_id": "AgACAgIAAxkBAANOYGiybryBBBvFSrFXK1rEWKa_4ncAAlW7MRs6O0BLQO-DcpVls6CPbliiLgADAQADAgADeAADb7QAAh4E",
+            "file_unique_id": "AQADj25Yoi4AA2-0AAI",
+            "file_size": 89609,
+            "width": 800,
+            "height": 534
+          },
+          {
+            "file_id": "AgACAgIAAxkBAANOYGiybryBBBvFSrFXK1rEWKa_4ncAAlW7MRs6O0BLQO-DcpVls6CPbliiLgADAQADAgADeQADbLQAAh4E",
+            "file_unique_id": "AQADj25Yoi4AA2y0AAI",
+            "file_size": 118216,
+            "width": 1024,
+            "height": 683
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909970,
+      "message": {
+        "message_id": 79,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617474776,
+        "text": "/last",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 69909971,
+      "message": {
+        "message_id": 80,
+        "from": {
+          "id": 295432732,
+          "is_bot": false,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 295432732,
+          "first_name": "Данил",
+          "last_name": "Яценко",
+          "username": "denny178",
+          "type": "private"
+        },
+        "date": 1617477482,
+        "text": "/photo",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
