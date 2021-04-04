@@ -7,6 +7,7 @@ import datetime
 import random
 import telebot
 from bs4 import BeautifulSoup
+from PIL import Image, ImageChops
 
 token = misc.token
 URL = 'https://api.telegram.org/bot' + token + '/'
@@ -141,6 +142,33 @@ def delete_all_photo():
         os.remove(path + photo)
 
 
+def check_this_photo(photo, all_photo):
+    path = 'image/'
+    os.mkdir('image/temp')
+    path1 = 'image/temp/'
+    file_info = bot.get_file(photo[len(photo) - 1].file_id)
+    downloaded_file = bot.download_file(file_info.file_path)
+    path2 = path1 + str("1.png")
+    with open(path2, 'wb') as new_file:
+        new_file.write(downloaded_file)
+
+    image1 = Image.open(path2)
+
+    flag = False
+    for cur_photo in all_photo:
+        image2 = Image.open(path + cur_photo)
+        result = ImageChops.difference(image1, image2)
+        image2.close()
+        if result.getbbox() is None:
+            flag = True
+    image1.close()
+    
+    path4 = 'image/temp/'
+    os.remove(path4 + '1.png')
+    os.rmdir('image/temp')
+    return flag
+
+
 def main():
     while True:
         message = get_message()
@@ -172,23 +200,26 @@ def main():
             elif message['is_photo']:
                 all_photo = get_all_photo()
                 photo = message['photo']
-                photo_name = None
-                if message['photo_name'] is not None:
-                    photo_name = message['photo_name'] + '.png'
-                    while photo_name in all_photo:
-                        message = get_message()
-                        if message['text_message'] is not None:
-                            photo_name = get_message()['text_message'] + '.png'
-                        if last_update_id != message['last_update_id']:
-                            if photo_name in all_photo:
-                                send_message(chat_id, "Пожалуйста, введите другое имя для фотографии.")
-                            last_update_id = message['last_update_id']
+                if check_this_photo(photo, all_photo):
+                    text = "Такая фотография уже существует"
+                else:
+                    photo_name = None
+                    if message['photo_name'] is not None:
+                        photo_name = message['photo_name'] + '.png'
+                        while photo_name in all_photo:
+                            message = get_message()
                             if message['text_message'] is not None:
                                 photo_name = get_message()['text_message'] + '.png'
-                        last_update_id = message['last_update_id']
-                last_update_id = message['last_update_id']
-                save_photo(photo, photo_name)
-                text = "Фотография успешно добавлена"
+                            if last_update_id != message['last_update_id']:
+                                if photo_name in all_photo:
+                                    send_message(chat_id, "Пожалуйста, введите другое имя для фотографии.")
+                                last_update_id = message['last_update_id']
+                                if message['text_message'] is not None:
+                                    photo_name = get_message()['text_message'] + '.png'
+                            last_update_id = message['last_update_id']
+                    last_update_id = message['last_update_id']
+                    save_photo(photo, photo_name)
+                    text = "Фотография успешно добавлена"
             elif text_message == '/delete_photo':
                 delete_all_photo()
                 text = "Все фотографии удалены"
